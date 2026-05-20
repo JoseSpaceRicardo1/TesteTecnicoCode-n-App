@@ -20,6 +20,7 @@
     }
 
     // Testes
+
     /*
     public static void Main()
     {
@@ -27,5 +28,6 @@
         Console.WriteLine(string.Join(", ", Fibonacci(5))); // 0, 1, 1, 2, 3
         Console.WriteLine(string.Join(", ", Fibonacci(7))); // 0, 1, 1, 2, 3, 5, 8
     }
+
     */
 }

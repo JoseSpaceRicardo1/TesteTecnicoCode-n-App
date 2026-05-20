@@ -48,12 +48,15 @@ public class Program
     */
 
     // Testes
-    
+    /*
+   
     public static void Main()
     {
         Console.WriteLine(TextoNormalizado("Como é???????")); // "Como é?!"
         Console.WriteLine(TextoNormalizado("Não!!!!!!!!")); // "Não!"
         Console.WriteLine(TextoNormalizado("O que???!!!!! Não acredito!!!")); // "O que?! Não acredito!"
     }
+
+    */
     
 }

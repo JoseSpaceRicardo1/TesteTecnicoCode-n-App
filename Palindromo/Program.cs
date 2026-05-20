@@ -22,6 +22,7 @@
         return limpainput == reverso;
     }
     // Testes
+    /*
     
     public static void Main()
     {
@@ -30,5 +31,6 @@
         Console.WriteLine(Palindromo("Roma me tem amor")); // true
         Console.WriteLine(Palindromo("DotNet")); // false
     }
+    */
     
 }
